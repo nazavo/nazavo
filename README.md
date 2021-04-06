@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nazavo
+- 👀 I’m interested in writing and blockchain
+- 🌱 I’m currently building a wirting habit
+- 💞️ I’m looking to collaborate on writing tools, publishing, and revenue generation for writers
+- 📫 find a contact at [nazavo.com](https://nazavo.com)
