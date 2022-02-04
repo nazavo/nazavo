@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nazavo
-- 🌱 I’m currently building a wirting habit
+- 🌱 I’m currently building automation software for STR businesses
 - 📫 Find a contact at [nazavo.com](https://nazavo.com)
