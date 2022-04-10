@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @nazavo
+- 👋 Hi, I’m Naz
 - 🌱 I’m currently building automation software for STR businesses
 - 📫 Find a contact at [nazavo.com](https://nazavo.com)
+- 🐦 [My twitter](https://twitter.com/naz_avo) is also a good way to connect
